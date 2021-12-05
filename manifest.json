@@ -1,0 +1,12 @@
+{
+
+  "Name": "Banjar Boy",
+  "Author": "janice",
+  "Description": "Add new uwu character",
+  "Version": "1.1.2",
+  "UniqueID": "janice.banjarNPC",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "UpdateKeys": [],
+}

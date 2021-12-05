@@ -1,0 +1,40 @@
+{
+  "Format": "1.6",
+  "Changes": [
+
+    {
+      "LogName": "NPC Manifestation",
+      "Action": "EditData",
+      "Target": "Data/NPCDispositions",
+      "Entries": {
+        "Banjar": "adult/neutral/outgoing/neutral/male/datable/null/Other/spring 4//Saloon 40 17/Banjar"
+		}
+    },
+
+    {
+      "LogName": "Banjar Sprites",
+      "Action": "Load",
+      "Target": "Characters/Banjar",
+      "FromFile": "Assets/BanjarSprites.png"
+    },
+	
+	{
+
+      "LogName": "Banjar Portraits",
+      "Action": "Load",
+      "Target": "Portraits/Banjar",
+      "FromFile": "Assets/WitchPort.png"
+
+    },
+	
+	{
+      "LogName": "Schedule",
+      "Action": "Load",
+      "Target": "Characters/schedules/Banjar",
+      "FromFile": "Assets/Schedule.json"
+
+    }
+  ]
+}
+		
+		

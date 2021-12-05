@@ -1,0 +1,22 @@
+{
+	"spring": "620 Saloon 40 17 2/700 Town 37 58 2"
+	
+	//The code output above: at 06:20 BanjarBoi will be at Saloon at coordinate 40, 17 facing down 
+	//Then at 07:00 BanjarBoi will go to the town at the coordinate 37,58 facing down
+	
+	//BREAKDOWN:
+	//Schedule format "Spring" is the season of the schedule
+	//[620] is the time 06:20
+	//[Saloon] is the initial place
+	//[40 17] is the coordinate
+	//[2] means the character is facing down
+	
+	// the [/] symbol is a divider between two schedule
+	
+	//[700] is the time 07:00
+	//[Town] is the second place
+	//[37 58] is the coordinate of the given character
+	//[2] means the character is facing down
+	
+	//0 = up, 1 = right, 2 = down, 3 = left
+}
